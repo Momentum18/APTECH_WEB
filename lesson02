@@ -1,0 +1,6 @@
+#python dictionary element:
+student_dict={'su@gmail.com':'subomi', 'adex@yahoo.com': 'Adeola'}
+student_dict['ay@yahoo.com']='Ayomide'
+student_dict['alex@hotmail.co.uk']='Alexandar'
+
+print(student_dict)
